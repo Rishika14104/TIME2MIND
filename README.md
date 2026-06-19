@@ -179,3 +179,7 @@ This project is developed for academic and educational purposes.
 ---
 
 ## Outputs
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0493332b-3bdc-4e3c-84e1-cd1de7e29e3e" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c50504e6-389e-49d0-832e-0dc8d82240b8" />
