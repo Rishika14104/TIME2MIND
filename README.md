@@ -175,3 +175,7 @@ Project: Talk2Mind – AI-Based Mental Well-Being Assessment System
 ## 📜 License
 
 This project is developed for academic and educational purposes.
+
+---
+
+## Outputs
